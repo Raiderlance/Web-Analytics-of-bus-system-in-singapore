@@ -31,6 +31,7 @@ We created pairs of consecutive bus stops and convert data pairs into a directed
 
 # Creating composite centrality matrix to find the key bus stops to act as dispersion point to disperse the crowds
 ![alt text](image-5.png) 
+Additional weights added to closeness and eigenvector centralities.
 
 # Zoom in 
 ![alt text](image-6.png) 
